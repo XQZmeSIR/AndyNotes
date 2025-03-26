@@ -1,0 +1,9 @@
+# The testing effect may be diminished or inverted for immediate tests
+
+As reviewed in [[Roediger, H. L., & Karpicke, J. D. (2006). The Power of Testing Memory: Basic Research and Implications for Educational Practice. Perspectives on Psychological Science, 1(3), 181–210]], experiments which successfully demonstrate the testing effect usually use retention intervals of several days or longer. When tests are administered immediately, more studying may be better than more testing (see also [[Worked example effect]]).
+
+## References
+
+[[Roediger, H. L., & Karpicke, J. D. (2006). The Power of Testing Memory: Basic Research and Implications for Educational Practice. Perspectives on Psychological Science, 1(3), 181–210]]
+
+[[Leahy, W., Hanham, J., & Sweller, J. (2015). High Element Interactivity Information During Problem Solving may Lead to Failure to Obtain the Testing Effect. Educational Psychology Review, 27(2), 291–304]] in experiments 1 and 2, they find an inverted testing effect when testing is immediate

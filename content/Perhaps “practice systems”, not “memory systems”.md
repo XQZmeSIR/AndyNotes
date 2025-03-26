@@ -1,0 +1,9 @@
+# Perhaps “practice systems”, not “memory systems”
+
+[[Michael Nielsen]] suggests that we should [[Prefer “memory system” to “spaced repetition system”]], because spaced repetition is one idea among many which will make for a powerful memory system. But I wonder if even “memory” is too narrow a frame. What I’m really doing is creating a daily routine for _practice._ Systematized, orchestrated attention given to ideas I find interesting ([[Programmable attention]]). Often, that really is memory-centric: I’m just maintaining certain declarative facts I’ve learned. But when I’m using these systems well, I’m often making new connections, thinking new thoughts, putting ideas to use. My instinct is that the more I do the latter, the more interesting and valuable those sessions get.
+
+This seems particularly true when I think about [[Retrieval practice and transfer learning]]: my experience really has been that I need to do a bunch of application and problem solving to get transferrable understanding. So maybe it’s better to frame these systems as a venue for “practice”, rather than “memory”.
+
+One side benefit of this notion is that it may help overcome [[Many people view memory as unimportant to deep creative work]]. People are used to practicing things they want to get better at. But they’re not used to thinking about memory so centrally. I wouldn’t want to over-index on that; it may well be that people just need to learn to understand the role of memory in difficult intellectual work. But I think their instinctive aversion to rote, unchanging retrieval is not totally misplaced (related: [[Idea-centric memory system]])
+
+Or… maybe “learning systems”, rather than “practice systems”? Too broad, really—connotes that instruction is included, too (and maybe it should be…). “Practice” keeps the focus on the daily ritual, the motion, the steady improvement. But it steers away from reflection, digestion, internalization—that’s less good.

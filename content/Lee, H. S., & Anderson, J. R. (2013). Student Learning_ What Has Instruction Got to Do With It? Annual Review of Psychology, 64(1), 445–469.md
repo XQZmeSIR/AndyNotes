@@ -1,0 +1,5 @@
+# Lee, H. S., & Anderson, J. R. (2013). Student Learning: What Has Instruction Got to Do With It? Annual Review of Psychology, 64(1), 445–469
+
+Thoughtful review of empirical and mechanistic evidence or the efficacy of [[Athlete musician scale framing origin timeline]] (vs. more explicit instruction), more balanced than [[Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching. Educational Psychologist, 41(2), 75–86]]. Broadly shows quite equivocal results, with many effects flipping sign in response to minor changes in experimental design. Lots and lots of details about how to probably optimize things, but as the authors note: “it is apparent that there is not a comprehensive understanding that would predict the outcome of different amounts of guidance across different learning situations.” Sometimes discovery methods win; sometimes direct instruction wins.
+
+![](image.png)

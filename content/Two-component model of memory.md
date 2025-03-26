@@ -1,0 +1,25 @@
+# Two-component model of memory
+
+This model of memory suggests that the decay of a memory over time can be accurately described by two parameters: {retrievability} and {stability}.
+
+Retrievability is defined as the {probability of a person remembering a fact after a period of time}. Stability is defined as {the durability of the memory: how long it will last if not retrieved}. Their relationship is approximated by {`R ∝ exp(-t / S)`}.
+
+Stability increases with each review, so that retrievability falls more slowly with each repetition (see [[Spacing effect]]). Retrieval appears to increase stability more when retrievability is low: that is, [[Less accessible memories are more reinforced by retrieval]] (see also [[Desirable difficulties, after Bjork]]). [[Supermemo]] [[tries to characterize this relationship with an exponential curve]], but the model complexity is high enough that I’m skeptical.
+
+This model explains why it can be helpful to study even material which one can successfully recall (“overlearning”): even when retrieval strength is relatively high, study can increase storage strength, which will decrease subsequent retrieval strength decay ([[Robert A. Bjork]] and Bjork, 1992).
+
+In practical use as part of a [[Spaced repetition memory system]], a third parameter for item complexity must generally be introduced, since SRS items are generally not actually atomic, as far as our brains are concerned.
+
+[[Piotr Wozniak]] uses retrievability and stability in his analysis; [[Robert A. Bjork]] and Bjork (1992) call an analogous pair of parameters retrieval strength and storage strength, respectively.
+
+* * *
+
+Q. Express two-component memory model’s stability component analytically. A. Stability is the time interval within which retrievability is above some threshold, e.g. 90%.
+
+* * *
+
+## References
+
+[[Two component model of memory - supermemo.guru]]
+
+Bjork, R. A., & Bjork, E. L. (1992). _A new theory of disuse and an old theory of stimulus fluctuation._ In A. F. Healy, S. M. Kosslyn, & R. M. Shiffrin (Eds.), _Essays in honor of William K. Estes, Vol. 1. From learning theory to connectionist theory; Vol. 2. From learning processes to cognitive processes_ (p. 35–67). Lawrence Erlbaum Associates, Inc.

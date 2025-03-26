@@ -1,0 +1,11 @@
+# The limiting factor in spaced repetition system capacity is writing enough good prompts
+
+[[Spaced repetition memory systems are extremely efficient]]. In fact, they’re so efficient that once someone’s adopted a reliable spaced repetition habit, system “throughput” tends to be limited by how many good prompts they can write, rather than by how much material they can absorb.
+
+[[Writing good spaced repetition memory prompts is hard]]. The obvious solution is to pool prompts like [[Quizlet]] and others do, but [[Studying another person’s spaced repetition memory prompts is usually ineffective]]. The [[Mnemonic medium]] is one solution: [[The mnemonic medium may help scaffold prompt-writing through author-provided prompts]].
+
+For instance, I find that I can handle about 40 new prompts per day while still keeping my sessions a reasonable length. And if I spend an hour or two reading per day, I’ve probably consumed enough material to warrant 40 prompts. But writing 40 prompts will add 30-60 minutes of effortful work to otherwise casual reading sessions, so I may write only a handful. That might be better in some ways: maybe I shouldn’t continue to engage with material I don’t care enough about to write prompts about. But my instinct is that we’re not at the efficient frontier. There is material for which I wouldn’t write prompts myself, but for which I’d benefit from reviewing prompts. And the process could be made less effortful for the material I _would_ prompts about (modulo [[Writing one’s own spaced repetition prompts seems to promote understanding]]).
+
+In sum, solving this problem might be the practical difference between remembering everything interesting that I read, and remembering 10% of the most interesting things I read. If I really did add 40 prompts to my collection every day, that would be almost 15k items in a year! See [[What’s the maximum intake rate of an efficient spaced repetition memory system?]]
+
+Tentatively, I’ve found that writing prompts in the context of my own notes is less effortful; the typical number I write on a topic is higher in that context than when studying with a memory system alone. (See [[The mnemonic medium can be extended to one’s personal notes]])

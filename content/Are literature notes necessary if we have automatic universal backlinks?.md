@@ -1,0 +1,15 @@
+# Are literature notes necessary if we have automatic universal backlinks?
+
+[[Literature notes are secondary and separate]], but are they necessary at all? Are they only necessary because you might want to _start_ a walk through your notes from a specific reference that happened to come up, and it’s awkward to find all the notes which refer to a specific reference?
+
+In other words, is this just a hold-over from the physical Zettelkasten? If we have a system which easily allows us to see—perhaps without even asking—all the notes associated with a reference, would we still need to keep literature notes at all?
+
+One reason to advocate for literature notes is that it would create an opportunity to explicitly curate key durable notes associated with a note. This might be important for cutting through the noise, especially if a reference is mentioned frequently.
+
+Would such curated associations even need to be textual? Is it sufficient to form metadata-only associations? [[Advantages and disadvantages of using notes to form associations in content]]
+
+Related: [[How should note tagging practices change with ranked link visualization?]]
+
+## References
+
+Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), _Universität als Milieu: Kleine Schriften_ (pp. 53–61). Retrieved from <http://luhmann.surge.sh/communicating-with-slip-boxes>

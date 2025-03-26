@@ -1,0 +1,7 @@
+# Spaced repetition memory systems don’t rapidly demonstrate their benefits
+
+[[Spaced repetition memory systems are extremely efficient]], but the curves start shallow. So a new user’s experience with a [[Spaced repetition memory system]] is front-loaded in terms of effort… and delayed in terms of powerful results. Initially, it seems no better than a trivial flashcard system which they might have used in school. And the long- term benefit is very non-obvious: [[Spaced repetition yields (what feel like) exponential returns for small increases in effort]], but almost nothing else does, and [[People have poor intuitions for exponentials]].
+
+Worse: even after the reader’s made significant progress, it’s not obvious that this is happening. You mostly don’t interact with the material you’ve now durably memorize, so you don’t viscerally feel that you’ve memorized hundreds of items. Instead, your attention is drawn to the prompts you’re likely to have forgotten: [[Spaced repetition memory systems make you feel like your memory is worse than it really is]].
+
+Given all this, system designers should consider supplementing the “natural” experience to combat this issue. Up front, coaching about the exponential may help people see that the required effort will quickly fall. It may also be useful to surface overall progress in review sessions (as [[Quantum Country]] does), so that users don’t over-index on the prompts in that one session to get a sense of their progress.

@@ -1,0 +1,5 @@
+# Leahy, W., Hanham, J., & Sweller, J. (2015). High Element Interactivity Information During Problem Solving may Lead to Failure to Obtain the Testing Effect. Educational Psychology Review, 27(2), 291–304
+
+[[John Sweller]] and colleagues run three experiments intended to explore the hypothesis that the [[Testing effect]] may not hold for high [[Element interactivity]] tasks; students who study more worked examples may prevail (i.e. a [[Worked example effect]]).
+
+In their first two experiments, they find an inverted testing effect, but students are tested immediately ([[The testing effect may be diminished or inverted for immediate tests]]). In experiment 3, the retention interval is extended to one week, and they find a slightly positive testing effect (not stat sig, though Rawson argues (see [[van Gog, T., & Sweller, J. (2015). Not New, but Nearly Forgotten: The Testing Effect Decreases or even Disappears as the Complexity of Learning Materials Increases. Educational Psychology Review, 27(2), 247–264]]) that it would be significant if they’d used a one-sided test, which would be justified given the prior literature).

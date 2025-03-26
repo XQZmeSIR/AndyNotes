@@ -1,0 +1,3 @@
+# Video games can profit from novel user interface ideas
+
+It’s usually hard to justify investment in novel interface ideas because [[Novel user interface ideas are public goods]]. But video games don’t seem to have the same problem the broader software industry has: empirically, they invent new interfaces regularly, even though they’re copied very rapidly. One potential reason for this is that video games typically make most of their money from their first few months of sales—like a film. And novel interface ideas can distinguish a game and make it much more successful in the market. So game developers can recoup expensive investment in novel interface ideas, even if they end up duplicated by a dozen copycats after a few months.

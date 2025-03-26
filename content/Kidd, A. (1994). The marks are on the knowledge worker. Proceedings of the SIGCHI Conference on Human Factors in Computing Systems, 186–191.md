@@ -1,0 +1,9 @@
+# Kidd, A. (1994). The marks are on the knowledge worker. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 186–191
+
+Summary: seeing knowledge workers surrounded by papers, notebooks, etc, it’s easy to treat these as the focal point of the worker’s information. But in fact, these are just temporary artifacts: “the valuable marks are on the knowledge worker rather than on the paper.” The paper’s work is done once it has _formed_ the knowledge worker.
+
+Q. What does the author mean by the title? A. Information acts on a KW by changing them. The marks on paper are just a vector; the effect that matters is the marks made on the KW.
+
+## Abstract
+
+> A study of twelve knowledge workers showed that their defining > characteristic is that they are changed by the information they process, > Their value lies in their diversity - companies exploit the fact that these > people make different sense of the same phenomena and therefore respond in > diverse ways. Knowledge workers do not carry much written information with > them when they travel and rarely consult their filed information when > working in their offices, Their desks are cluttered and seemingly function > as a spatial holding pattern for current inputs and ideas. My explanation is > that ==once informed (ie, given form) by some written material, these > workers have no particular need to retain a copy== of the informing source. > However, ==if a piece of written material has not yet informed them, then > they cannot sensibly file it== anyway because its subsequent use or role in > their world is still undetermined. I conclude that ==the valuable marks are > on the knowledge worker rather than on the paper== or on the electronic file > and suggest how ==computer support for knowledge work might be better > targeted on the act of informing rather than on passively filing== large > quantities of information in a “disembodied” form.

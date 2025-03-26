@@ -1,0 +1,5 @@
+# Team environments make it easy to fool yourself with displacement activities
+
+A common trope is that office workers spend all day in useless meetings, chatting with colleagues, attending talks, maintaining reports, etc. But team environments are very powerful; those activities are _sometimes_ quite valuable! Unfortunately, creative work is hard. When problems occur, it’s easy to spend all day attending meetings or answering questions—not because you’ve decided that those are the most valuable things to do, but because you’re engaged in [[Displacement activity]], avoiding your real work. The trouble here isn’t that those activities are never useful, and that everyone would be better off if they cancelled all their meetings. It’s that those activities are _sometimes_ quite valuable, which makes it too easy not notice when you’re actually using them to hide.
+
+I’ve noticed that displacement activities are much more obvious when working alone. There’s no mailing list of questions to answer, so the backup activities often look more like surfing the internet or cleaning the house or whatever. It’s harder to accidentally convince yourself that that’s work!
