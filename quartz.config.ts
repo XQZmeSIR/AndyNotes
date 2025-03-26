@@ -8,23 +8,21 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Andy' notes 📝",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: "goatcounter", websiteId: "andy-notes" },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "andy-notes.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Sofia Sans Semi Condensed",
+        body: "Sofia Sans Semi Condensed",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -34,21 +32,20 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          // secondary: "#284b63",
+          secondary: "#f05a7f",
+          tertiary: "#2b2b2b",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
+          light: "#24283b",
+          lightgray: "#414868",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#bb9af7",
+          tertiary: "#7aa2f7",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
         },
       },
     },
@@ -57,7 +54,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["git", "filesystem", "frontmatter"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
